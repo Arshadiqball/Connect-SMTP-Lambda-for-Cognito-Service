@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-crypto/client-node": "^4.2.1",
+    "nodemailer": "^7.0.10"
+  }
+}
